@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://clean-home-makkah.salah-alhattami.chatgpt.site/sitemap.xml
